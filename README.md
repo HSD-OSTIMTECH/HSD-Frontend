@@ -1,4 +1,4 @@
-
+# ÇOK ÖNEMLİ DEĞİŞİKLİKLER...
 
 # HSD OSTİMTECH Resmi Web Sitesi - Frontend
 
